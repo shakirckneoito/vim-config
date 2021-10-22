@@ -31,4 +31,5 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'mhinz/vim-startify'
     Plug 'voldikss/vim-floaterm'
     Plug 'liuchengxu/vim-which-key'
+    Plug 'airblade/vim-gitgutter'
     call plug#end()
